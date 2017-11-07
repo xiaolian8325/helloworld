@@ -6,3 +6,8 @@ int main(int argc, char const *argv[])
 	printf("hahaha\n");
 	return 0;
 }
+
+int yadd(int a, int b)
+{
+	return a + b;
+}
