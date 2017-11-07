@@ -11,3 +11,8 @@ int yadd(int a, int b)
 {
 	return a + b;
 }
+
+int yplus(int a, int b)
+{
+	return b - a;
+}
